@@ -14,3 +14,5 @@ if is_prime and num != 1:
   print("%d is prime" % (num))
 else:
   print("%d is not prime" % (num))
+
+# start from here https://github.com/aaronguostudio/Python-100-Days/blob/master/Day01-15/04.%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84.md
